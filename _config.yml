@@ -1,3 +1,9 @@
 theme: jekyll-theme-cayman
 
-## headline：zachary|homepage
+header：zachary|homepage
+
+menu:
+  Archives: /archives
+  黄金屋: /favourite
+  时光机: /favourite/time.html
+  我是: /aboutme
