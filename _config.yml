@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
 
-header：zachary|homepage
+title: "zachary|homepage"
 
 menu:
   Archives: /archives
