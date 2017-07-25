@@ -1,6 +1,6 @@
 ## Welcome to Zachary's homepages
 
-  [page-1](http://zacharypt.github.io/page-1).
+  [page-1](http://zacharypt.github.io/page-one).
 
 ## If You Want to Learn More
 
